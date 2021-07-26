@@ -19,7 +19,25 @@ h1 {
     padding: 10px 10px;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 35px;
+    margin-top: 20px;
     font-family: 'Merriweather', serif;
     font-weight: bolder;
+}
+
+.remove {
+    margin-top: 13px;
+    background-color: #f2f205;
+    float: right;
+    clear: both;
+    padding-right: 20px;
+    border-radius: 5px;
+    border-style: none;
+    width: 60px;
+    height: 20px;
+
+}
+
+#wrapper {
+    width: 450px;
+    
 }
