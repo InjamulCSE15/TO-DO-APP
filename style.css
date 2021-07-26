@@ -10,6 +10,7 @@ body {
 h1 {
     font-family: 'Merriweather', serif;
     color:darkblue;
+    margin-top: 30px;
 }
 
 #add {
@@ -26,10 +27,10 @@ h1 {
 
 .remove {
     margin-top: 13px;
-    background-color: #f2f205;
+    background-color: #f20505;
     float: right;
     clear: both;
-    padding-right: 20px;
+    color: white;
     border-radius: 5px;
     border-style: none;
     width: 60px;
@@ -47,5 +48,21 @@ h1 {
     padding-top: 30px;
     padding-left: 50px;
     padding-right: 65px;
-    
+
+}
+
+ol {
+    text-align: left;
+    line-height: 35px;
+}
+
+#task {
+    width: 320px;
+    height: 30px;
+    margin-left: 17px;
+}
+
+li {
+    color: black;
+
 }
